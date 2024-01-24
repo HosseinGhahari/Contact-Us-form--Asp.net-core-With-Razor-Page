@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Contact_us_form
+build_property.RootNamespace = Contact_us_form
+build_property.ProjectDir = C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\CodeYad Course\Contact-us form\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\CodeYad Course\Contact-us form
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/My Work/2- Programming/3- C\# Learning/1-Practise And Learning/CodeYad Course/Contact-us form/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Work/2- Programming/3- C\# Learning/1-Practise And Learning/CodeYad Course/Contact-us form/Views/Home/Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZXNzYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Work/2- Programming/3- C\# Learning/1-Practise And Learning/CodeYad Course/Contact-us form/Views/Shared/_ContactLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Work/2- Programming/3- C\# Learning/1-Practise And Learning/CodeYad Course/Contact-us form/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/My Work/2- Programming/3- C\# Learning/1-Practise And Learning/CodeYad Course/Contact-us form/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

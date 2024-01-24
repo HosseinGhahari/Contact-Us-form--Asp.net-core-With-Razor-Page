@@ -1,0 +1,56 @@
+﻿@model List<Contact_us_form.Models.Message>
+@section Style
+    {
+    <style>
+        thead th {
+            text-align: right;
+        }
+
+        thead {
+            box-shadow: 0 0 2px 0 gray;
+            background: #0000000d;
+        }
+
+        body {
+            background-image: url('/images/bg-01.jpg');
+            background-size: cover;
+        }
+    </style>
+}
+
+
+<div class="container">
+    <div class="card mt-5">
+        <div class="card-header">
+            <h5 class="m-b-10">لیست پیام ها</h5>
+            <a class="left-auto font-weight-bold btn-success p-t-4 p-b-4 p-l-4 p-r-4 rounded" href="/home">بازگشت</a>
+        </div>
+        <div class="card-body">
+            <table class="table text-right table-bordered table-hover ">
+                <thead>
+
+                    <tr>
+                        <th>
+                            #
+                        </th>
+                        <th>عنوان</th>
+                        <th>نام و نام خانوادگی</th>
+                        <th>پیام</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Subject</td>
+                            <td>@item.FullName</td>
+                            <td>@item.MessageText</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\CodeYad Course\\Contact-us form\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Contact-us form.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Contact-us form.props",
+      "PackagePath": "build\\Contact-us form.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Contact-us form.props",
+      "PackagePath": "buildMultiTargeting\\Contact-us form.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Contact-us form.props",
+      "PackagePath": "buildTransitive\\Contact-us form.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
