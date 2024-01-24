@@ -1,2 +1,2 @@
-*.Css linguist-detectable=false
+*.CSS linguist-detectable=false
 *.C# linguist-detectable=true
